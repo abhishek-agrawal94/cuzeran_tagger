@@ -1,0 +1,10 @@
+Root_affix  Inflected_affix POS_tag_inflected
+
+_$  ी$  NOUN-fem-sing
+_$  े$  NOUN-neut-sing
+ा$  े$  NOUN-masc-plur
+_$  _$  NOUN-masc-plur
+ा$  ा$  NOUN-fem-plur
+ ू$  ू$ NOUN-fem-plur
+ ी|ई$   या$ NOUN-fem-plur
+ ो|ओ$   ा$  NOUN-fem-plur
